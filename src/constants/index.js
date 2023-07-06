@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  ardova,
+  grandida,
+  alx,
+  jpmorgan,
 } from "../assets";
 
 export const navLinks = [
@@ -118,7 +122,7 @@ const experiences = [
   {
     title: "Fullstack Developer",
     company_name: "Ardova PLC",
-    icon: starbucks,
+    icon: ardova,
     iconBg: "#383E56",
     date: "May 2023 - Present",
     points: [
@@ -134,7 +138,7 @@ const experiences = [
   {
     title: "Blockchain Developer",
     company_name: "Grandida Works",
-    icon: tesla,
+    icon: grandida,
     iconBg: "#E6DEDD",
     date: "Jun 2021 -  May 2023",
     points: [
@@ -148,29 +152,29 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Software Engineer Intern",
+    company_name: "ALX Africa",
+    icon: alx,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2021 - Mar 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      " Successfully maintained and enhanced existing software applications, addressing bugs and implementing new features to improve functionality and user experience.",
+      "Conducted rigorous unit and integration testing, resulting in the detection and resolution of critical issues, ensuring the delivery of high-quality and reliable software.",
+      "Played an active role in code reviews, providing valuable feedback and suggestions that significantly improved the overall code quality and maintainability of the applications.",
+      "Demonstrated effective collaboration skills by actively engaging with cross-functional teams, contributing to the resolution of technical and non-technical challenges, and fostering a cohesive working environment.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Software Engineer Intern",
+    company_name: "JPMorgan Chase & Co",
+    icon: jpmorgan,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jun 2020 - July 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "  Developed innovative solutions that significantly added value for customers, clients, and employees by creating high-quality software products, resulting in increased customer satisfaction and improved operational efficiency.",
+      "Spearheaded improvements to the design, analytics, coding, and testing processes, optimizing the software development lifecycle and enabling effective utilization of server data on the client-side for enhanced decision-making capabilities.",
+      "Successfully implemented enhancements to a client-side React application, revolutionizing the data visualization experience by rendering graphs in a highly intuitive and visually appealing manner, leading to improved data comprehension and more informed decision-making.",
+      "   Upgraded and optimized an application graph, resulting in the display of more relevant and valuable information for financial trades, empowering traders with actionable insights and improving their overall performance in the market.",
     ],
   },
 ];

@@ -25,6 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import alx from "./company/alx.png";
+import ardova from "./company/ardova.png";
+import grandida from "./company/grandida.jpeg";
+import jpmorgan from "./company/jpmorgan.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +60,10 @@ export {
   shopify,
   starbucks,
   tesla,
+  alx,
+  ardova,
+  grandida,
+  jpmorgan,
   carrent,
   jobit,
   tripguide,
